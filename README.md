@@ -1,4 +1,7 @@
 # advML
+## Advanced Machine Learning on HPC Clusters
+
+Welcome to the Advanced Machine Learning on HPC Clusters workshop. This intensive, 6-7 hour session is designed to bridge the gap between high-level machine learning theory and the practical realities of large-scale computation. As datasets grow and architectures like Transformers become the standard, the need for High-Performance Computing (HPC) has never been greater. This workshop will guide you through the transition from local development to running sophisticated models on professional-grade HPC services.
 
 ## Learning Objectives
 
